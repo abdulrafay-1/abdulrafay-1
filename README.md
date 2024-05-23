@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently a Bachelor Student
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [https://abdulrafay-1.netlify.app/](https://abdulrafay-1.netlify.app/)
 
