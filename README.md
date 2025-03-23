@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [abdulrafay-1.vercel.app]([https://abdulrafay-1.vercel.app)
+- 👨‍💻 All of my projects are available at [abdulrafay-1.vercel.app](https://abdulrafay-1.vercel.app)
 
 - 💬 Ask me about **HTML5,CSS3,BOOTSTRAP,TALWIND CSS & JAVASCRIPT ES6, FIREBASE & REACT.**
 
