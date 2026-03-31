@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abdul Rafay</h1>
-<h3 align="center">A passionate FrontEnd Developer</h3>
+<h3 align="center">A passionate Full Stack Engineer</h3>
 
-- 🔭 I’m currently a Bachelor Student
-
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **AI**
 
 - 👨‍💻 All of my projects are available at [abdulrafay-1.vercel.app](https://abdulrafay-1.vercel.app)
 
-- 💬 Ask me about **HTML5,CSS3,BOOTSTRAP,TALWIND CSS & JAVASCRIPT ES6, FIREBASE & REACT.**
+- 💬 Ask me about **ReactJS, NextJS, ExpressJS, AI, Copilot, Python, Blockchain**
 
 - 📫 How to reach me **abdulrafayeng08@gmail.com**
 
